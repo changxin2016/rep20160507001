@@ -1,1 +1,3 @@
-tytrytrytrrrr999
+public static void main(String[] args) {
+	System.out.println("III love Shuxin, halion is a dog");
+}
